@@ -1,0 +1,3 @@
+#上传时忽略（Eclipse的配置文件）
+.project
+.pydevproject
